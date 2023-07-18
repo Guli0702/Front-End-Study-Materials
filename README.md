@@ -9,3 +9,5 @@ Front End study materials
 - [YouTube video](https://www.youtube.com/watch?v=-_X6PhkjpzU) - 5 Front-end Development Skills to Land Your First Job
 - [YouTube video](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=2338s) - MySQL Tutorial for Beginners
 
+![image](https://github.com/Guli0702/Front-End-Study-Materials/assets/138679683/96af7017-e8df-4bcc-8ef3-9d09df63e9fa)
+
