@@ -9,6 +9,7 @@ Front End study materials
 - [treehouse](https://teamtreehouse.com/?utm_source=google&utm_medium=cpc&utm_campaign=G_UPR_PPC_WebDevelopment_NB&utm_content=Courses&utm_ad=653742238233&utm_term=online%20web%20development%20course&matchtype=e&device=c&GeoLoc=1009877&placement=&network=g&campaign_id=19833079841&adset_id=146347915839&ad_id=653742238233&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbxY4XvmSeTEMi48W5MINbnLEzwHcvXlq2Ot7EulU1I7a82HnXRVODEaAvNeEALw_wcB) - paid online tutorial platform
 - [YouTube video](https://www.youtube.com/watch?v=-_X6PhkjpzU) - 5 Front-end Development Skills to Land Your First Job
 - [YouTube video](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=2338s) - MySQL Tutorial for Beginners
+- [Web Publishing](https://www.wpbeginner.com/beginners-guide/how-to-publish-a-website-step-by-step/) - how to publish website step by step explanation.
 
 ![image](https://github.com/Guli0702/Front-End-Study-Materials/assets/138679683/96af7017-e8df-4bcc-8ef3-9d09df63e9fa)
 
