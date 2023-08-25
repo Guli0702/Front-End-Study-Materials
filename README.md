@@ -17,3 +17,6 @@ Front End study materials
 ![image](https://github.com/Guli0702/Front-End-Study-Materials/assets/138679683/6323a6fc-c267-46f1-a9a2-591b95ad8e1d)
 
 ![image](https://github.com/Guli0702/Front-End-Study-Materials/assets/138679683/10a8059c-c19d-4d9e-a08b-7a626cf60d56)
+
+![image](https://github.com/Guli0702/Front-End-Study-Materials/assets/138679683/f55336ea-9542-4f09-907f-b42c6b0d96b8)
+
